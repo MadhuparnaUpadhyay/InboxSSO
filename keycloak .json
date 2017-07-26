@@ -1,0 +1,7 @@
+{
+  "realm": "SAP-Test",
+  "auth-server-url": "http://localhost:7000/auth",
+  "ssl-required": "external",
+  "resource": "Node-Js-client",
+  "public-client": true
+}
